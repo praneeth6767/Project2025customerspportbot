@@ -51,7 +51,7 @@
 # Run server
     npm start
 
-    Then open http://localhost:5000 in your browser.
+    Then open /frontend/index.html in your browser.
 
 # 🧠 Example
 
@@ -75,9 +75,6 @@
                     │
                     ├── Frontend/
                     │   ├── index.html
-                    │   ├── style.css
-                    │   └── script.js
-                    │
                     └── README.md           
 
 
